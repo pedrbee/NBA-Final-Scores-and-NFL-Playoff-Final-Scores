@@ -15,3 +15,5 @@ Pelicans - 102 Grizzlies - 105
 Magic - 103 Bucks - 110
 
 Thunder - 88 Wolves - 104
+
+Hawks - 110 Nuggests - 97
