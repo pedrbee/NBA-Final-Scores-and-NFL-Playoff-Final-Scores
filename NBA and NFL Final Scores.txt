@@ -11,3 +11,5 @@ Knicks - 119 Bulls - 122
 Blazers - 112 Rockets - 121
 
 Pelicans - 102 Grizzlies - 105
+
+Magic - 103 Bucks - 110
